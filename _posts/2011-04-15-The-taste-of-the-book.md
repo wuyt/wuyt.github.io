@@ -4,7 +4,7 @@ title: 书的味道
 date: 2011-4-15 00:46:00 UTC+8
 tags: [Essay]
 category: [OutsideOfProgramming]
-desc: 如果把书吃了会是啥味道
+description: 如果把书吃了会是啥味道
 ---
 
 想来，近些时间看了不少美食有关的书，从《千面美食家》，《分子厨艺》到《暴食江湖》。唉，吃货就是吃货，看书都离不开吃。
