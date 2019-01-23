@@ -4,10 +4,10 @@ title: EasyAR SDK 学习小结
 date: 2019-01-23 12:44:05 UTC+8
 tags: [AR, EasyAR, Unity3D]
 category: [Software]
-description: 这里头部的简介
+description: EasyAR SDK 学习小结
 ---
 
-这里是显示在首页的文章内容。
+EasyAR是国内的一个增强现实SDK，用起来还算方便，毕竟用中文说明。
 
 <!-- more -->
 
