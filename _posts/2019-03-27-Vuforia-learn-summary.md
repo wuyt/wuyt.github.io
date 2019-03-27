@@ -75,6 +75,42 @@ Key需要输入在“Vuforia Configuration”里
 
 Vuforia视频播放已经改用Unitiy自带的“Video”组件。
 
+## 虚拟按钮
+
+    using UnityEngine;
+    using Vuforia;
+    
+    public class VirtualButtonEventHandler : MonoBehaviour,IVirtualButtonEventHandler {
+    
+    /// <summary>
+    /// 虚拟按钮行为类
+    /// </summary>
+    VirtualButtonBehaviour virtualButtonBehaviour;
+
+    	void Start()
+    	{
+        	virtualButtonBehaviour = GetComponent<VirtualButtonBehaviour>();
+       	 virtualButtonBehaviour.RegisterEventHandler(this);  //注册事件
+    	}
+    	/// <summary>
+    	/// 当虚拟按钮被挡住
+    	/// </summary>
+    	/// <param name="vb">虚拟按钮行为类</param>
+    	public void OnButtonPressed(VirtualButtonBehaviour vb)
+    	{
+        	Debug.Log("OnButtonPressed: " + vb.VirtualButtonName);
+    	}
+    	/// <summary>
+    	/// 当虚拟按钮遮挡离开
+    	/// </summary>
+    	/// <param name="vb">虚拟按钮行为类</param>
+    	public void OnButtonReleased(VirtualButtonBehaviour vb)
+    	{
+        	Debug.Log("OnButtonReleased: " + vb.VirtualButtonName);
+    	}
+    }
+
+
 ## 关于 Vuforia Object Scanner
 
 - 尽可能选取表面简单，但是有很多花纹图案的物体。因为，Vuforia物体识别本质上是图片识别。
