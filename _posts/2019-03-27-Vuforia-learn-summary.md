@@ -31,7 +31,7 @@ Key需要输入在“Vuforia Configuration”里
 
 添加“ARCamera”
 
-![输入Key](/images/2019-3-27-Vuforia-ARCamera)
+![添加ARCamera(/images/2019-3-27-Vuforia-ARCamera.jpg)
 
 ## 图片识别、方块识别、柱体识别、物体识别、模型识别
 
