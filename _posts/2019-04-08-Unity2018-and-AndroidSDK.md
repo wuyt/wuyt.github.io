@@ -39,6 +39,8 @@ https://developer.android.google.cn/studio
 
 解压以后，在目录中有个“sdkmanager.bat”文件。
 
+![下载](/images/2019-4-8-bat.jpg)
+
 用命令行的方式，进行操作即可。最常用的3个命令是
 
 - sdkmanager --list（查看已经安装的内容）
