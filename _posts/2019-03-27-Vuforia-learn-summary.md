@@ -82,15 +82,15 @@ Vuforia视频播放已经改用Unitiy自带的“Video”组件。
     
     public class VirtualButtonEventHandler : MonoBehaviour,IVirtualButtonEventHandler {
     
-    /// <summary>
-    /// 虚拟按钮行为类
-    /// </summary>
-    VirtualButtonBehaviour virtualButtonBehaviour;
+    	/// <summary>
+    	/// 虚拟按钮行为类
+    	/// </summary>
+    	VirtualButtonBehaviour virtualButtonBehaviour;
 
     	void Start()
     	{
         	virtualButtonBehaviour = GetComponent<VirtualButtonBehaviour>();
-       	 virtualButtonBehaviour.RegisterEventHandler(this);  //注册事件
+       	virtualButtonBehaviour.RegisterEventHandler(this);  //注册事件
     	}
     	/// <summary>
     	/// 当虚拟按钮被挡住
