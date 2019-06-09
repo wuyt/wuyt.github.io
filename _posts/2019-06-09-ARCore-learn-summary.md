@@ -7,7 +7,7 @@ category: [Software]
 description: ARCore 学习小结
 ---
 
-在苹果退出了ARKit之后，Google也推出了对应的SDK，即ARCore。
+在苹果推出了ARKit之后，Google也推出了对应的SDK，即ARCore。
 
 <!-- more -->
 
