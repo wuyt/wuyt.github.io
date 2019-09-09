@@ -45,7 +45,8 @@ Debuger for Unity、Unity Code Snippets、Unity Snippets和Unity Tools插件是�
 
 在VS Code中隐藏其他文件文件，打开settings.json配置文件添加
 
- >  // Configure glob patterns for excluding files and folders.
+```
+  // Configure glob patterns for excluding files and folders.
     "files.exclude": {
         "**/.git": true,
         "**/.DS_Store": true,
@@ -63,3 +64,4 @@ Debuger for Unity、Unity Code Snippets、Unity Snippets和Unity Tools插件是�
         "**/ProjectSettings": true,
         "**/Temp": true
     }
+```
