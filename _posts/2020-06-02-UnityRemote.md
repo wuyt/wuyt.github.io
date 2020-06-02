@@ -39,7 +39,7 @@ Unity Remote之前就有，东躲西藏，以前在商城里，后面被移出�
 
 在编辑器点击运行以后，就能同时在移动设备和屏幕上看到效果。
 
-![UnityRemote效果](/images/20200602-UnityRemote-05.jpg)
+![UnityRemote效果](/images/20200602-UnityRemote-08.jpg)
 
 注意要把调式的分辨率设置到和移动设备一致，不然，移动设备上显示的内容会变形。
 
