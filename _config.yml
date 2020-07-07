@@ -54,7 +54,7 @@ widgets:
 - category
 - tag
 #- tagcloud
-- links
+#- links
 #- douban
 #- github-card
 - rss
@@ -76,7 +76,7 @@ banner_img: #img/banner.jpg ## size:1920px*200px+. Banner Picture
 #### index post is expanding or not
 index:
   expand: true           ## default is unexpanding,so you can only see the short description of each post.
-  excerpt_link: 详细内容
+  excerpt_link: More
 
 close_aside: false  #close sidebar in post page if true
 mathjax: true      #enable mathjax if true
@@ -84,7 +84,7 @@ share_to: true #enable share-to buttons if true
 
 #### Author information
 author:
-  name: wuyt      ## e.g. wuchong Author name
+  name:  leeliyi.jay      ## e.g. wuchong Author name
   intro_line1:  #"Hello ,I'm Larry Page in Google."    ## your introduction on the bottom of the page
   intro_line2:  #"This is my blog,believe it or not."  ## the 2nd line
   weibo:      ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
@@ -92,7 +92,7 @@ author:
   tsina:      ## e.g. 2176287895  Your weibo ID,It will be used in share button.
   douban:     ## e.g. wuchong1014 or your id for https://www.douban.com/people/wuchong1014
   zhihu:      ## e.g. jark  for http://www.zhihu.com/people/jark
-  email: 5140075@qq.com     ## e.g. imjark@gmail.com
+  email:  leeliyi.jay@gmail.com     ## e.g. imjark@gmail.com
   twitter:    ## e.g. jarkwu for https://twitter.com/jarkwu
   github: wuyt    ## e.g. wuchong for https://github.com/wuchong
   facebook:   ## e.g. imjark for https://facebook.com/imjark
