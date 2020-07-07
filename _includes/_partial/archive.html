@@ -33,6 +33,11 @@ if (page.archive){
 {% assign icon = 'tag' %}
 {% endif %}
 
+{% if page.layout == 'projects' %}
+{% assign title = lang.projects %}
+{% assign icon = 'category' %}
+{% endif %}
+
 <div class="archive-title" >
   <h2 class="{{ icon }}-icon"><span class='archive-folder'>{{ title }}</span></h2>
   {% if page.layout == 'archives' %}
@@ -85,6 +90,21 @@ if (page.archive){
  </div>
  </ul>
  {% endif %}
+
+ {% if page.layout == 'projects' %}
+  
+ <ul class="archive-list">
+ <div class="archiveslist archive-float clearfix">
+   {% for project in site.categories  %}
+   <li class="archive-list-item">
+   <a class="archive-list-link" href="#{{ project[0] }}">{{ project[0] }}</a>
+   <span class="archive-list-count">{{ project[1] | size }}</span>
+   </li>
+   {% endfor %}
+</div>
+</ul>
+{% endif %}
+
  
 </div>
 <div id="main" class="archive-part clearfix">
