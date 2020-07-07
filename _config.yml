@@ -54,7 +54,6 @@ menu:
 widgets:
 - category
 - tag
-- project
 #- tagcloud
 #- links
 #- douban
