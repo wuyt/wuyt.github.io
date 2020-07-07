@@ -4,8 +4,6 @@
 <section class="post {% for category in item.categories %}{{ category }} {% endfor %}" itemscope itemprop="blogPost">
 {% elsif page.layout == 'tags' %}
 <section class="post {% for tag in item.tags %}{{ tag }} {% endfor %}" itemscope itemprop="blogPost">
-  {% elsif page.layout == 'projects' %}
-  <section class="post {% for project in item.projects %}{{ project }} {% endfor %}" itemscope itemprop="blogPost">  
 {% else %}
 <section class="post" itemscope itemprop="blogPost">
 {% endif %}
