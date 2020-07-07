@@ -2,8 +2,8 @@
 layout: post
 title: mapbox-unity-sdk 学习小结
 date: 2019-06-29 15:10:05 UTC+8
-tags: [Mapbox, Unity3D]
-category: [Software]
+tags: [Mapbox, Unity]
+category: [blog]
 description: mapbox-unity-sdk学习小结
 ---
 

@@ -2,8 +2,8 @@
 layout: post
 title: EasyAR SDK 学习小结
 date: 2019-01-23 12:44:05 UTC+8
-tags: [AR, EasyAR, Unity3D]
-category: [Software]
+tags: [EasyAR Sense, Unity]
+category: [blog]
 description: EasyAR SDK 学习小结
 ---
 

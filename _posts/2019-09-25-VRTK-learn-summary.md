@@ -2,8 +2,8 @@
 layout: post
 title: VRTK学习小结
 date: 2019-09-25 21:10:05 UTC+8
-tags: [VRTK,  Unity3D]
-category: [Software]
+tags: [Unity]
+category: [blog]
 description: VRTK学习小结
 ---
 

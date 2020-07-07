@@ -2,8 +2,8 @@
 layout: post
 title: Google VR 学习小结
 date: 2019-08-22 14:10:05 UTC+8
-tags: [GVR, Google VR,  Unity3D]
-category: [Software]
+tags: [Google VR,  Unity]
+category: [blog]
 description: Google VR 学习小结
 ---
 
