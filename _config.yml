@@ -28,20 +28,20 @@ defaults:
 paginate: 20
 
 #### Site
-title : Foresee Future Studio
-tagline: Foresee the future and grasp the present.
+title : 生活在他方
+tagline: 那天流星划过天际，落入心中成为平凡的石头。
 assets: /assets
 url:
 baseurl:
 
 #### Language
-language: en    ## blog site languages: en, zh-CN, zh-TW, de
+language: zh-CN    ## blog site languages: en, zh-CN, zh-TW, de
 
 #### Menu
 menu:
-  Index: /
-  Archives: /archives
-  About Us: /about
+  首页: /
+  文章: /archives
+  关于: /about
 ## you can create `tags` and `categories` folders (I had created them already).
 ## And create a `index.md` file in each of them.
 ## set `front-matter`as
