@@ -23,12 +23,6 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "project"
 
 #### Pagination
 paginate: 20
@@ -47,7 +41,6 @@ language: en    ## blog site languages: en, zh-CN, zh-TW, de
 menu:
   Index: /
   Archives: /archives
-  Projects: /projects
   About Us: /about
 ## you can create `tags` and `categories` folders (I had created them already).
 ## And create a `index.md` file in each of them.
