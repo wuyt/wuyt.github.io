@@ -2,8 +2,8 @@
 layout: post
 title: Unity2019安卓平台新手建议
 date: 2020-05-29 11:00:05 UTC+8
-tags: [Unity]
-category: [blog]
+tags: [Unity,Android]
+category: [Software]
 description: Unity,Android
 ---
 

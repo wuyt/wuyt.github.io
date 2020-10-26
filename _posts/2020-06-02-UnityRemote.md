@@ -2,8 +2,8 @@
 layout: post
 title: UnityRemote
 date: 2020-06-02 11:00:05 UTC+8
-tags: [Unity]
-category: [blog]
+tags: [Unity,Remote]
+category: [Software]
 description: Unity,Android
 ---
 
