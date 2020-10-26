@@ -3,7 +3,7 @@ layout: post
 title: Unity ID and UnityHUb installation
 date: 2020-07-07 11:00:05 UTC+8
 tags: [Unity]
-category: [video]
+category: [video]]
 description: Unity
 ---
 
