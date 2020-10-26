@@ -11,4 +11,4 @@ When multiple Sparse Spatial Map are used, the structure is actually that there 
 
 <!-- more -->
 
-[![Unity ID and UnityHUb installation](http://img.youtube.com/vi/yM22zFc21dA/0.jpg)](http://www.youtube.com/watch?v=yM22zFc21dA)
+[![Unity ID and UnityHUb installation](http://img.youtube.com/vi/yM22zFc21dA/0.jpg)](http://www.youtube.com/watch?v=yM22zFc21dA "Unity ID and UnityHUb installation")
