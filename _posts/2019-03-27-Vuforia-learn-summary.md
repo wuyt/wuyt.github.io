@@ -2,8 +2,8 @@
 layout: post
 title: Vuforia 学习小结
 date: 2019-03-27 19:10:05 UTC+8
-tags: [Vuforia, Unity]
-category: [blog]
+tags: [AR, Vuforia, Unity3D]
+category: [Software]
 description: Vuforia 学习小结
 ---
 

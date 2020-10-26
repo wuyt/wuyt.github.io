@@ -2,8 +2,8 @@
 layout: post
 title: VS Code Unity使用设置
 date: 2019-09-09 14:10:05 UTC+8
-tags: [Unity]
-category: [blog]
+tags: [VS Code,  Unity3D]
+category: [Software]
 description: VS Code Unity使用设置
 ---
 

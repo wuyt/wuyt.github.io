@@ -2,8 +2,8 @@
 layout: post
 title: Unity Cinemachine 学习小结
 date: 2019-07-03 15:10:05 UTC+8
-tags: [Unity]
-category: [blog]
+tags: [Unity3D, Cinemachine]
+category: [Software]
 description: Unity Cinemachine 学习小结
 ---
 

@@ -2,8 +2,8 @@
 layout: post
 title: ARCore 学习小结
 date: 2019-06-09 19:10:05 UTC+8
-tags: [ARCore, Unity]
-category: [blog]
+tags: [AR, ARCore, Unity3D]
+category: [Software]
 description: ARCore 学习小结
 ---
 

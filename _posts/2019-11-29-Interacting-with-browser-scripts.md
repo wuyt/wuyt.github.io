@@ -2,8 +2,8 @@
 layout: post
 title: Unity与浏览器脚本交互
 date: 2019-11-29 21:10:05 UTC+8
-tags: [Unity]
-category: [blog]
+tags: [Browser scripts,  Unity3D]
+category: [Software]
 description: Unity与浏览器脚本交互
 ---
 

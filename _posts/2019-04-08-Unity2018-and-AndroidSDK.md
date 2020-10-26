@@ -2,8 +2,8 @@
 layout: post
 title: Unity2018下Android SDK设置
 date: 2019-04-08 14:28:05 UTC+8
-tags: [Unity]
-category: [blog]
+tags: [Unity3D,Android SDK]
+category: [Software]
 description: Unity2018下Android SDK设置
 ---
 

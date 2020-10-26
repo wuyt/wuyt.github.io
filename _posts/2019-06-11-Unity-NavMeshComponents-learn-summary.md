@@ -2,8 +2,8 @@
 layout: post
 title: Unity NavMeshComponents 学习小结
 date: 2019-06-11 10:10:05 UTC+8
-tags: [Unity]
-category: [blog]
+tags: [Unity3D, NavMeshComponents]
+category: [Software]
 description: Unity NavMeshComponents 学习小结
 ---
 

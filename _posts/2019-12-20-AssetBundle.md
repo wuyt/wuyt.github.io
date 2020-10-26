@@ -2,8 +2,8 @@
 layout: post
 title: Unity AssetBundle
 date: 2019-12-20 19:10:05 UTC+8
-tags: [ Unity]
-category: [blog]
+tags: [ Unity3D, AssetBundle]
+category: [Software]
 description: Unity AssetBundle
 ---
 
