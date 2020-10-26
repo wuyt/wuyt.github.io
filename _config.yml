@@ -40,7 +40,7 @@ language: en    ## blog site languages: en, zh-CN, zh-TW, de
 #### Menu
 menu:
   Blog: /
-  Video: /categories/#Video
+  Video: /categories/#video
   About Us: /about
 ##   Video: /archives  
 ## you can create `tags` and `categories` folders (I had created them already).
