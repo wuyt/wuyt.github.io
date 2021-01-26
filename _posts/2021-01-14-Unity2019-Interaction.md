@@ -27,7 +27,7 @@ Transition选项可以让交互游戏对象在不同状态显示效果不同，�
 
 Button的本身样子是由一个Image（图像）游戏对象和一个Text（文本）游戏对象组成，按钮显示文字通过修改Button游戏对象的子游戏对象Text中的文本即可。
 
-![Unity2019常用功能:交互游戏对象](/images/20210114-Interaction-03.png)
+![Unity2019常用功能:交互游戏对象](/images/20210114-Interaction-08.png)
 
 ### Toggle（开关）
 
