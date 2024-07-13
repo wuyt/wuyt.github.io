@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 工作日记 2024-07-12
+title: 工作日记 2024年7月12日
 date: 2024-7-13 10:00:05 UTC+8
-tags: [工作,日记]
-category: [工作]
-description: 工作日记
+tags: [work,diary]
+category: [work]
+description: work diary
 ---
 
 想写工作日记了，理由我自己也不是非常清楚，总之先写吧。
