@@ -7,6 +7,8 @@ category: [work]
 description: work diary
 ---
 
+2024年7月12日
+
 想写工作日记了，理由我自己也不是非常清楚，总之先写吧。
 
 <!-- more -->
